@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+
+__pycache__/
+
+# files
+build
+dist
+*.egg-info
+*.py[cod]
+
+*$py.class
+
+# C extensions
+
+*.so
