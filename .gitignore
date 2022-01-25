@@ -13,3 +13,8 @@ dist
 # C extensions
 
 *.so
+
+# temp testing files and folder
+temp
+*.opml
+*.json
