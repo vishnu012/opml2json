@@ -19,7 +19,7 @@ opml2json is a simple python module that convert opml to json
 #### import on another python file
     from opml2json.dump import write_json
 
-    write_json("feeder.opml","text.json")
+    write_json("input.opml","output.json")
 
 #### directly use on terminal / cmd
     python3 -m opml2json -f filename.opml
